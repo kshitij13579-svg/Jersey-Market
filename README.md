@@ -129,7 +129,8 @@ streamlit run app.py
 
 ## 👥 Team
 
-SP Jain School of Global Management — GMBA Programme  
+SP Jain School of Global Management — GMBA Programme 
+Kshitij Singh
 DAIDM Course Project — January 2025 Cohort
 
 ---
